@@ -9,3 +9,5 @@ You need to recompile dwm every time you update the theme, and remember to chang
 
 Dependencies: 
 pywal cozette nitrogen
+
+I've also added some wallpapers that I like using with this build. I do not own any of these images, and as far as I know they are free for personal use.
