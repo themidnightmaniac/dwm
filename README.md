@@ -1,5 +1,5 @@
 My personal build of dwm, which include the following patches (also available in /patches):
-urg-border-6.2 always-center attach-aside-6.4 bar-height-6.2 useless-gaps
+urg-border-6.2 always-center attach-aside-6.4 bar-height-6.2 useless-gaps fullgaps-6.4
 
 If you are not using pywal delete the #include "/home/USER/.cache/wal/colors-wal-dwm.h" line and uncomment the color schemes, and also if you are using dmenu change the variables in the /*commands*/ section for its respective colors.
 
