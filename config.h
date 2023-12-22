@@ -6,11 +6,11 @@ static const unsigned int gappx     = 6;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const int user_bh 	    = 22;	/* 0 means that dwm will calculate bar height */
+static const int user_bh 	    = 24;	/* 0 means that dwm will calculate bar height */
 static const int vertpad 	    = 10;	/* vertical padding of the bar */
 static const int sidepad 	    = 10;	/* horizontal padding of the bar */
-static const char *fonts[]          = { "Cozette:size=12" };
-static const char dmenufont[]       = "Cozette:size=12";
+static const char *fonts[]          = { "Terminus:size=12" };
+static const char dmenufont[]       = "Terminus:size=12";
 #include "/home/ncho/.cache/wal/colors-wal-dwm.h"
 /*
 static const char col_gray1[]       = "#222222";
